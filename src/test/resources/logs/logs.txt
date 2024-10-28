@@ -1,0 +1,16 @@
+2024-10-28 22:33:24 INFO  Log:13 - ******************         User searches for a product and adds it to the cart Basladi         ******************
+2024-10-28 22:33:26 INFO  Log:42 - User navigates to https://www.beymen.com/tr page
+2024-10-28 22:33:27 INFO  Log:24 - User verifies they are on the homepage
+2024-10-28 22:33:27 INFO  Log:42 - User enters the first search term: şort
+2024-10-28 22:33:27 INFO  Log:42 - User clears the search box.
+2024-10-28 22:33:27 INFO  Log:42 - Waiting for the search box to be visible.
+2024-10-28 22:33:29 INFO  Log:42 - User enters the second search term: gömlek and presses Enter.
+2024-10-28 22:33:30 INFO  Log:42 - User selects a random product from the product list.
+2024-10-28 22:33:30 INFO  Log:42 - User writes the product title and price to the product info file.
+2024-10-28 22:33:30 INFO  Log:42 - User selects a random product size.
+2024-10-28 22:33:30 INFO  Log:42 - User clicks 'Add to Cart'.
+2024-10-28 22:33:31 INFO  Log:42 - User navigates to the cart.
+2024-10-28 22:33:32 INFO  Log:24 - User compares the price in the product list with the price in the cart.
+2024-10-28 22:33:32 INFO  Log:24 - User checks that the quantity of the product has increased.
+2024-10-28 22:33:35 INFO  Log:42 - User clicks the delete button to remove the product from the cart.
+2024-10-28 22:33:35 INFO  Log:24 - User verifies that there are no products in the cart.
