@@ -1,5 +1,5 @@
 
-In this project, there are api scenario with the libraries used in this project, our tests are faster and more understandable.
+In this project, there are ui scenario with the libraries used in this project, our tests are faster and more understandable.
 
 **hooks package**=contains a hook class whose purpose is to contain code to be executed before and after testing.
 
@@ -12,7 +12,7 @@ In this project, there are api scenario with the libraries used in this project,
 **resources package**=Package with logs and data
 
 content:
-1. Api Test
+1. UI Test
 
 Buildable Tetsler:
 1. Smoke Test
